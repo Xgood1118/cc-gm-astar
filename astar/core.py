@@ -26,3 +26,8 @@ def path_cost(grid, path):
     """算路径代价"""
     raise NotImplementedError("path_cost 尚未实现")
 
+
+def load_grid(path):
+    """读入与落盘辅助"""
+    raise NotImplementedError("load_grid 尚未实现")
+
