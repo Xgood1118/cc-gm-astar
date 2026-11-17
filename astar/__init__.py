@@ -1,1 +1,1 @@
-"""动态障碍寻路"""
+from .core import *  # noqa: F401,F403
